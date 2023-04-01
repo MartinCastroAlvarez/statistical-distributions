@@ -1,5 +1,5 @@
 # statistical-distributions
-Analyzing statistical distributions using Python
+Analyzing statistical distributions using SciPy
 
 ![wallpaper.jpg](wallpaper.jpg)
 
